@@ -21,7 +21,7 @@ The backend project follows a standard Spring Boot project structure with the fo
 
 ## Application Properties
 
-The backend project uses the following configuration in the `application.properties` file
+The backend project uses the following configuration in the `application.properties` file under src/main/resources
 
 Make sure to replace the `spring.datasource.password` property with your MySQL database password before running the application.
 
